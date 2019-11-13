@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Project1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="front">Mặt trước</string>
+    <string name="capture">Chụp</string>
+    <string name="capture_back_side">Chụp mặt sau</string>
+    <string name="capture_again">Chụp lại</string>
+    <string name="front_identity_card">Chứng minh thư nhân dân - Mặt trước</string>
+    <string name="back_side">Mặt sau</string>
+    <string name="back_side_identity_card">Chứng minh thư nhân dân - Mặt sau</string>
+    <string name="next">Tiếp theo</string>
+    <string name="GTCN_type_text">Loại GTCN</string>
+    <string name="GTCN_number_text">Số GTCN</string>
+    <string name="name_text">Họ tên</string>
+    <string name="birthday_text">Ngày sinh</string>
+    <string name="gender_text">Giới tính</string>
+    <string name="native_place_text">Địa chỉ</string>
+    <string name="dated_text">Ngày cấp</string>
+    <string name="place_text">Nơi cấp</string>
+    <string name="prcessed">Đã xử lý</string>
+    <string name="processing">Đang xử lý</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="done">Xong</string>
+    <string name="no_identity_card">No identity card</string>
+</resources>
